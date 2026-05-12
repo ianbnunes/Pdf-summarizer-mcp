@@ -1,0 +1,1 @@
+# Pdf-summarizer-mcp

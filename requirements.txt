@@ -1,0 +1,6 @@
+pymupdf
+streamlit
+fastmcp
+openai
+python-dotenv
+pytest
